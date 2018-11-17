@@ -1,6 +1,6 @@
 {
   "type": "network",
-  "version": "1.0",
+  "version": "1.1",
   "data": "data.json",
   "logo": {
     "file": "./images/logo.png",
@@ -13,9 +13,9 @@
     "title": "카이스트 교수진 진학 네트워크"
   },
   "legend": {
-    "edgeLabel": "Transference",
-    "colorLabel": "Similar Fields of Study",
-    "nodeLabel": "Departments"
+    "edgeLabel": "전공변경",
+    "colorLabel": "관련분야",
+    "nodeLabel": "전공"
   },
   "features": {
     "search": true,
