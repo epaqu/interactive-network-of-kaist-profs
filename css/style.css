@@ -1,6 +1,7 @@
 * {
-padding: 0px;
-margin: 0px;
+	padding: 0px;
+	margin: 0px;
+	font-family: "Noto Sans KR", sans-serif;
 }
 
 .cf:before, .cf:after {
