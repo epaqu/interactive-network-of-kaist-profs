@@ -3,12 +3,12 @@
   "version": "1.0",
   "data": "data.json",
   "logo": {
-    "file": "./logo.png",
-    "link": "./logo.png",
+    "file": "./images/logo.png",
+    "link": "https://www.kaist.ac.kr/html/kr/index.html",
     "text": "KAIST Professors Network by Jaewoo An"
   },
   "text": {
-    "more": "원본 데이터는 KAIST 교무팀에 컨택하여 입수하였습니다.",
+    "more": "원본 데이터는 KAIST 교무팀에 컨택하여 입수하였습니다. 이후 R로 데이터를 정규화하고 용도에 맞게 개선하였습니다.",
     "intro": "2015년 기준 KAIST의 모든 교수의 학부-석사-박사 진학 과정에서 나타나는 전공 변경의 시각화입니다.",
     "title": "카이스트 교수진 진학 네트워크"
   },
@@ -42,8 +42,8 @@
     "graphProperties": {
       "maxEdgeSize": 2,
       "minEdgeSize": 1,
-      "minNodeSize": 50,
-      "maxNodeSize": 200
+      "minNodeSize": 5,
+      "maxNodeSize": 50
     },
     "mouseProperties": {
       "maxRatio": 20,
